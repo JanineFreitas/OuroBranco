@@ -1,5 +1,5 @@
 # O quê
-Projeto de mestrado sem fins lucrativos, que possui a finalidade de usar machine learning para identificar anomalias em sistemas de pagamento. Se informação é novo petróleo da internet, queremos estudar os dados para que eles sejam o novo ouro branco do universo.
+Projeto de mestrado sem fins lucrativos, que possui a finalidade de usar ciência de dados para identificar anomalias em sistemas de pagamento. Se informação é novo petróleo da internet, queremos estudar os dados para que eles sejam o novo ouro branco do universo.
 
 # Quem
 Mestra Janine Freitas de Olivera em engenharia de software e especialista em arquitetura de software. Doutor Erico Souza Teixeira pelo e professor do Centros Avançados do Recife (CESAR SCHOOL).
